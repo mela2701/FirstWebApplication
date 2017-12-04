@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\FirstWebApplication\FirstWebApplication\bin\Debug\netcoreapp2.0\FirstWebApplication.deps.json
+C:\Users\admin\source\repos\FirstWebApplication\FirstWebApplication\bin\Debug\netcoreapp2.0\FirstWebApplication.runtimeconfig.json
+C:\Users\admin\source\repos\FirstWebApplication\FirstWebApplication\bin\Debug\netcoreapp2.0\FirstWebApplication.runtimeconfig.dev.json
+C:\Users\admin\source\repos\FirstWebApplication\FirstWebApplication\bin\Debug\netcoreapp2.0\FirstWebApplication.dll
+C:\Users\admin\source\repos\FirstWebApplication\FirstWebApplication\bin\Debug\netcoreapp2.0\FirstWebApplication.pdb
+C:\Users\admin\source\repos\FirstWebApplication\FirstWebApplication\obj\Debug\netcoreapp2.0\FirstWebApplication.csprojResolveAssemblyReference.cache
+C:\Users\admin\source\repos\FirstWebApplication\FirstWebApplication\obj\Debug\netcoreapp2.0\FirstWebApplication.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\FirstWebApplication\FirstWebApplication\obj\Debug\netcoreapp2.0\FirstWebApplication.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\FirstWebApplication\FirstWebApplication\obj\Debug\netcoreapp2.0\FirstWebApplication.AssemblyInfo.cs
+C:\Users\admin\source\repos\FirstWebApplication\FirstWebApplication\obj\Debug\netcoreapp2.0\FirstWebApplication.dll
+C:\Users\admin\source\repos\FirstWebApplication\FirstWebApplication\obj\Debug\netcoreapp2.0\FirstWebApplication.pdb
